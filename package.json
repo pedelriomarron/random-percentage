@@ -1,0 +1,19 @@
+{
+  "name": "random-percentage",
+  "version": "0.1.0",
+  "description": "Module that will contain a method of random selection and a percentage creation method that will be used together",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedelriomarron/random-percentage.git"
+  },
+  "author": "Pedro del Rio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedelriomarron/random-percentage/issues"
+  },
+  "homepage": "https://github.com/pedelriomarron/random-percentage#readme"
+}
