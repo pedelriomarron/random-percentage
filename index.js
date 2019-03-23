@@ -15,7 +15,7 @@ module.exports = new class RandomPercentage{
 
     percentage(number,ofNumber){
         var perce = this.getKnowPercentageNumber(number,ofNumber);
-        r = this.getRandom(1,100)
+        var r = this.getRandom(1,100)
         if(r>perce)
             return false;
         else if(r<=perce)
