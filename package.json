@@ -1,6 +1,6 @@
 {
   "name": "random-percentage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Module that will contain a method of random selection and a percentage creation method that will be used together",
   "main": "index.js",
   "scripts": {
