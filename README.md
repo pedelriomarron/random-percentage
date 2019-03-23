@@ -28,7 +28,7 @@ else
     console.log('FALSE')
 
     //OR
-var perce = random.getKnowPercentageNumber(3,9);
+var perce = random.getKnowPercentageNumber(3,10);
 console.log(perce);
 r = random.getRandom(1,100)
 console.log(r);
