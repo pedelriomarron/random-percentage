@@ -1,11 +1,15 @@
 {
   "name": "random-percentage",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Module that will contain a method of random selection and a percentage creation method that will be used together",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "random",
+    "percentage"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pedelriomarron/random-percentage.git"
